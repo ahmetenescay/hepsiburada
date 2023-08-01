@@ -410,3 +410,10 @@ input.empty {
     border-radius: 5px; 
     padding: 1px;
 }
+.td-none{
+    text-decoration: none;
+}
+.h30r5{
+    height: 30px; 
+    border-radius: 5px;
+}
