@@ -357,6 +357,12 @@ input.empty {
 .fs-lg{
     font-size: large;
 }
+.fs-sm{
+    font-size: small;
+}
+.fs-xs{
+    font-size: x-small;
+}
 .hemenAl{
     width: 160px; 
     background-color: #FF6000; 
@@ -372,4 +378,8 @@ input.empty {
 .progress-bar1{
     width: 1%; 
     background-color: #777;
+}
+.callCenter{
+    text-align: center; 
+    display: block;
 }
