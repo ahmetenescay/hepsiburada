@@ -417,3 +417,10 @@ input.empty {
     height: 30px; 
     border-radius: 5px;
 }
+.backwhite{
+    background-color: #ffffff;
+}
+.h200w200{
+    width: 200px; 
+    height: 200px;
+}
