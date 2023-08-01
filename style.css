@@ -149,8 +149,7 @@ input.empty {
     transform: translate(60%, 0);
   }
 .bordered{
-    border: 1px;
-    border-color: #DDDDDD;
+    border: 1px solid #DDDDDD;
     border-radius: 12px;
 }
 .dropdown:hover >.dropdown-menu{
@@ -166,6 +165,9 @@ input.empty {
 }
 .cards >.card-body >.btn{
     display: none;
+}
+.cards{
+    height: 495px;
 }
 .fixed{
     max-height: 1500px;
@@ -239,6 +241,12 @@ input.empty {
 .green{
     background-color: #57B900;
 }
+.green2{
+    color: #57B900;
+}
+.grey{
+    color: #777;
+}
 .purple{
     background-color: #5D196A;
 }
@@ -289,4 +297,79 @@ input.empty {
 .borderedv3{
     border: 1px solid #FFFFFF;
     border-radius: 12px;
+}
+.col-3SlideImg{
+    display: block; 
+    transform: translate(50% , 0);
+}
+.translate10{
+    transform: translate(10% , 0);
+}
+.dropdownScroll{
+    max-height: 200px; 
+    overflow: auto;
+}
+.categorySize{
+    box-sizing: border-box;
+    min-height: 300px;
+}
+.listItemScroll{
+    max-height: 150px; 
+    overflow: auto;
+}
+.starColor{
+    color: #F69F29;
+}
+.searchBarSize{
+    width: 70px;
+    height: 35px; 
+    display: inline;
+}
+.searchSubmit{
+    border:1px solid #e2e3e4; 
+    border-radius: 8px; 
+    background-color: #e2e3e4; 
+    margin-left: 10px;
+}
+.sellerDropdown{
+    border: none; 
+    background-color: #ffffff;
+}
+.location-button{
+    background-color:rgba(255, 96, 0,0.15);
+    color: #FF6000;
+}
+.order-button{
+    background-color:rgba(0, 0, 0,0.15); 
+    border-radius: 12px; 
+    color:rgba(0, 0, 0,0.4);
+}
+.progress-showMore{
+    background-color: #FF6000; 
+    color: #ffffff;
+    transform: translate(220%,0);
+}
+.addBasket{
+    background-color: #FF6000;
+    color: white; 
+    font-weight: bold;
+}
+.fs-lg{
+    font-size: large;
+}
+.hemenAl{
+    width: 160px; 
+    background-color: #FF6000; 
+    color: white; 
+    border-radius: 5px; 
+    padding-left: 5px; 
+    padding-right: 5px;
+}
+.progress1{
+    width: 500px; 
+    transform: translate(57%,0);
+}
+.progress-bar1{
+    width: 1%; 
+    background-color: #777;
 }
