@@ -199,6 +199,9 @@ input.empty {
 .blued:hover{
     color:#537ecf;
 }
+.blue{
+    color: #537ecf;
+}
 .NumberBox{
     background-color: #537ecf;
     border: 1px solid #537ecf;
