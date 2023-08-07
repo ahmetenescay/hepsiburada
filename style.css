@@ -390,6 +390,11 @@ input.empty {
     border: 7px solid #eeeeee; 
     border-radius: 12px;
 }
+.progress3{
+    height: 20px; 
+    border: 5px solid #eeeeee; 
+    border-radius: 12px;
+}
 .callCenter{
     text-align: center; 
     display: block;
@@ -440,4 +445,8 @@ input.empty {
 .h60w60{
     height: 3.75rem;
     width: 3.75rem;
+}
+.h100w80{
+    height: 6.25rem;
+    width: 5rem;
 }
