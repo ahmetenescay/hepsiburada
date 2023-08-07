@@ -450,3 +450,12 @@ input.empty {
     height: 6.25rem;
     width: 5rem;
 }
+.w-5{
+    width: 5%;
+}
+.w-95{
+    width: 95%;
+}
+.backgrey{
+    background-color:#AAAAAA;
+}
