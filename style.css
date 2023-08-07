@@ -366,6 +366,9 @@ input.empty {
 .fs-lg{
     font-size: large;
 }
+.fs-md{
+    font-size: medium;
+}
 .fs-sm{
     font-size: small;
 }
@@ -464,4 +467,15 @@ input.empty {
 }
 .h25{
     height: 1.5625rem;
+}
+.productDesc{
+    width: 100%;
+}
+.navborder{
+    border-top: 1px solid #AAAAAA;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.bankIcon{
+    height: 1.125rem;
 }
