@@ -431,3 +431,6 @@ input.empty {
 .h500{
     height:31.25rem ;
 }
+.br12{
+    border-radius: 12px;
+}
