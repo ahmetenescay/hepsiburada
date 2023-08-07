@@ -424,3 +424,10 @@ input.empty {
     width: 200px; 
     height: 200px;
 }
+.h30w100{
+    height: 30px; 
+    width: 100px;
+}
+.h500{
+    height:31.25rem ;
+}
