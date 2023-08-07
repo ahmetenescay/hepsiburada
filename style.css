@@ -324,8 +324,8 @@ input.empty {
     background-color:#F69F29;
 }
 .searchBarSize{
-    width: 70px;
-    height: 35px; 
+    width: 4.375rem;
+    height: 2.1875rem; 
     display: inline;
 }
 .searchSubmit{
@@ -367,7 +367,7 @@ input.empty {
     font-size: x-small;
 }
 .hemenAl{
-    width: 160px; 
+    width: 10rem; 
     background-color: #FF6000; 
     color: white; 
     border-radius: 5px; 
@@ -375,7 +375,7 @@ input.empty {
     padding-right: 5px;
 }
 .progress1{
-    width: 500px;
+    width: 31.25rem;
     transform: translate(57%,0);
 }
 .progress-bar1{
@@ -392,7 +392,7 @@ input.empty {
     display: block;
 }
 .h615{
-    height: 615px;
+    height: 38.4375rem;
 }
 .productProperty{
     background-color: #efefef; 
@@ -414,23 +414,27 @@ input.empty {
     text-decoration: none;
 }
 .h30r5{
-    height: 30px; 
+    height: 1.875rem; 
     border-radius: 5px;
 }
 .backwhite{
     background-color: #ffffff;
 }
 .h200w200{
-    width: 200px; 
-    height: 200px;
+    width: 12.5rem; 
+    height: 12.5rem;
 }
 .h30w100{
-    height: 30px; 
-    width: 100px;
+    height: 1.875rem; 
+    width: 6.25rem;
 }
 .h500{
     height:31.25rem ;
 }
 .br12{
     border-radius: 12px;
+}
+.h60w60{
+    height: 3.75rem;
+    width: 3.75rem;
 }
