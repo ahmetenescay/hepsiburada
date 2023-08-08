@@ -90,13 +90,20 @@ input.empty {
     height: 6rem;
 }
 .links{
-    text-overflow: ellipsis;
     text-decoration: none;
     color: #777777;
     font-weight:500;
     font-size: smaller;
 }
-.links:hover{
+.links-top{
+    text-decoration: none;
+    color: #777777;
+    font-weight: light;
+    font-size: smaller;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.links:hover ,.links-top:hover{
     color: #000000;
 }
 .footer-images{
