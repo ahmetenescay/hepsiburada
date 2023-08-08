@@ -440,6 +440,9 @@ input.empty {
 .backwhite{
     background-color: #ffffff;
 }
+.white{
+    color: #ffffff;
+}
 .backf5{
     background-color: #f5f5f5;
 }
