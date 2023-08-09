@@ -227,6 +227,10 @@ input.empty {
     color: #000000;
     text-decoration: none;
 }
+.linksv3{
+    color:#444444;
+    text-decoration: none;
+}
 .borderedv2{
     border: 1px solid #AAAAAA;
     border-radius: 12px;
@@ -262,8 +266,17 @@ input.empty {
 .red{
     color:#ed433e;
 }
+.backred{
+    background-color:#ed433e;
+}
+.red2:hover{
+    color: #ed433e;
+}
 .orangev2{
     color: #FF6000;
+}
+.td-under{
+    text-decoration: underline;
 }
 .bgDarkBlue{
     background-color:rgba(83, 126, 207,0.1);
