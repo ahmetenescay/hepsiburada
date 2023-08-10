@@ -173,7 +173,7 @@ input.empty {
     display: none;
 }
 .cards{
-    height: 495px;
+    height: 380px;
 }
 .fixed{
     max-height: 1500px;
@@ -563,4 +563,9 @@ input.empty {
 }
 .hide{
     visibility: hidden;
+}
+.card-img-top{
+
+    width: 80%;
+    height: 80%;
 }
