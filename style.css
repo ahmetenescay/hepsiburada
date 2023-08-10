@@ -561,3 +561,6 @@ input.empty {
 .nav-link:active{
     color:black;
 }
+.hide{
+    visibility: hidden;
+}
