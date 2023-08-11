@@ -336,7 +336,8 @@ input.empty {
 }
 .categorySize{
     box-sizing: border-box;
-    min-height: 300px;
+    max-height: 300px;
+    overflow: auto;
 }
 .listItemScroll{
     max-height: 150px; 
