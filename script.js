@@ -25,14 +25,11 @@ function myFunction() {
     moreText.style.display = "inline";
   }
 }
-function dropdown(){
+function shapeShift(){
   var satici = document.getElementById("satici");
-  var more = document.getElementById("saticiMore");
-  if (more.style.display === "none") {
-    more.style.display = "inline";
+  if (satici.innerHTML == '<i class="fa-solid fa-caret-down"></i>') {
     satici.innerHTML ='<i class="fa-solid fa-caret-up"></i>'
   } else {
-    more.style.display = "none";
     satici.innerHTML ='<i class="fa-solid fa-caret-down"></i>'
   }
 }
