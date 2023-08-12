@@ -566,7 +566,20 @@ input.empty {
     visibility: hidden;
 }
 .card-img-top{
-
     width: 14rem;
     height: 11rem;
+}
+.card-img-col-2{
+    width: 10.5rem;
+    height: 9.5rem;
+    padding: 5px;
+}
+.cards2:hover >.card-body >.btn{
+    display: block;
+}
+.cards2 >.card-body >.btn{
+    display: none;
+}
+.cards2{
+    height: 350px;
 }
