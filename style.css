@@ -323,6 +323,9 @@ input.empty {
     border: 1px solid #FFFFFF;
     border-radius: 12px;
 }
+.borderedv4{
+    border: 2.5px solid #AAAAAA;
+}
 .col-3SlideImg{
     display: block; 
     transform: translate(50% , 0);
@@ -521,6 +524,12 @@ input.empty {
 }
 .w160{
     width: 10rem;
+}
+.w140{
+    width: 140px;
+}
+.pt-0{
+    padding-top: 0px;
 }
 .h40{
     height: 2.5rem;
