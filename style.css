@@ -594,3 +594,6 @@ input.empty {
     height: 350px;
     width: 190px;
 }
+.modalTableRow{
+    height: 55px;
+}
