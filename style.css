@@ -575,6 +575,8 @@ input.empty {
     visibility: hidden;
 }
 .card-img-top{
+    padding-left: 5px;
+    padding-top: 8px;
     width: 14rem;
     height: 11rem;
 }
