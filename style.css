@@ -111,6 +111,9 @@ input.empty {
     height: 150px;
     transform: translate(50%, 0);
 }
+.center-me {
+    margin: 0 auto;
+  }
 #more {
     display: none;
 }
@@ -574,6 +577,9 @@ input.empty {
 .hide{
     visibility: hidden;
 }
+.w50{
+    width: 50px;
+}
 .card-img-top{
     padding-left: 5px;
     padding-top: 8px;
@@ -581,6 +587,8 @@ input.empty {
     height: 11rem;
 }
 .card-img-col-2{
+    max-width: 100%;
+    max-height: 100%;
     padding-left: 10px;
     padding-top: 5px;
     width: 10.5rem;
@@ -595,6 +603,26 @@ input.empty {
 .cards2{
     height: 350px;
     width: 190px;
+}
+.card-img-col-sm-6{
+    max-width: 100%;
+    max-height: 100%;
+    padding-left: 10px;
+    padding-top: 5px;
+    width: 10rem;
+    height: 9rem;
+}
+/*
+.cards3:hover >.card-body >.btn{
+    display: block;
+}
+.cards3 >.card-body >.btn{
+    display: none;
+}
+*/
+.cards3{
+    height: 350px;
+    min-width: 10.5rem;
 }
 .modalTableRow{
     height: 55px;
