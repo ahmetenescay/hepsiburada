@@ -245,6 +245,10 @@ input.empty {
     border: 1px solid #AAAAAA;
     border-radius: 20px;
 }
+.circle{
+    border: 1px solid #AAAAAA;
+    border-radius: 50%;
+}
 .orangeinal{
     background-color: #FF6000;
 }
@@ -289,6 +293,9 @@ input.empty {
 }
 .w-22{
     width: 22px;
+}
+.w-60{
+    width: 60%;
 }
 .w-200{
     width: 200px;
