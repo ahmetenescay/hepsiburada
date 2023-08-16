@@ -297,6 +297,12 @@ input.empty {
 .w-60{
     width: 60%;
 }
+.w-390{
+    width: 390px;
+}
+.w-600{
+    width: 865px;
+}
 .w-200{
     width: 200px;
 }
@@ -505,6 +511,12 @@ input.empty {
 }
 .w-5{
     width: 5%;
+}
+.w-50{
+    width: 50%;
+}
+.w-7{
+    width: calc(100/7);
 }
 .w-95{
     width: 95%;
